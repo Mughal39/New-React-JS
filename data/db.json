@@ -4,16 +4,14 @@
         "title": "My new website",
         "body": "loram ipsum",
         "author": "Mohsin",
-        "id": 1,
-        "same": "Hello"
+        "id": 1
         },
     
         {
-       " title": "web dev top tips",
+       "title": "web dev top tips",
         "body": "loram ipsum",
         "author": "Hamza",
-        "id": 3,
-        "same": "Hello"
+        "id": 3
         }
     ]
 }  
